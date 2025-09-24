@@ -27,7 +27,7 @@ chmod +x install.sh
 Skriptni ishga tushiring:
 ```bash
 
-./install.sh
+sudo bash ./install.sh
 
 ```
 ⚡ Skript haqida
