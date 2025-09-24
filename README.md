@@ -8,6 +8,7 @@ O‘rnatish jarayoni o‘zbek tilida banner va xabarlar bilan ko‘rsatiladi.
 Reponi klon qiling yoki install.sh faylni yuklab oling:
 
 git clone https://github.com/nodir-dev/Docker-install.git
+
 cd Docker-install
 
 
