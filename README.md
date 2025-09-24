@@ -46,9 +46,10 @@ Barcha jarayonlar va xatoliklar o‘zbek tilida chiqariladi.
 ✅ Tekshiruv
 
 O‘rnatish tugagach, quyidagi buyruqni ishga tushirib Docker versiyasini tekshiring:
+```bash
 
 docker --version
-
+```
 👤 Muallif
 
 @Gojo_Developer
